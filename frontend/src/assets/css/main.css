@@ -1,0 +1,7 @@
+.main-wrapper {
+    margin: 0 auto;
+    width: 80%;
+    background-color: #fafafa;
+    min-height: 500px;
+    padding: 10px 50px;
+}

@@ -1,0 +1,32 @@
+.card {
+    width : auto;
+}
+
+.likesButton {
+    margin: 10px;
+}
+
+.modal {
+   border-radius: 10px;
+}
+
+.modalHeader {
+    padding: 10px;
+    margin: 10px;
+}
+
+.modalForm {
+    padding: 10px;
+    margin: 10px;
+}
+
+.modalAdd {
+    /* border-left: 40px; */
+    margin-left: 10px;
+    /* margin-left: 90%; */
+}
+
+.listGroup {
+    height: 600px;
+    overflow: scroll;
+}

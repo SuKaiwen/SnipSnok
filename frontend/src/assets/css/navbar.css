@@ -1,0 +1,22 @@
+/* Stylesheet for the navbar */
+
+.nav-spacer {
+    padding-left: 25vw;
+}
+
+.nav-link {
+    margin: 0px 6px;
+}
+
+.navbar-top {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.add-content {
+    width: 2500px;
+}
+
+.nav-img {
+    margin-left: 50px;
+}
