@@ -6,17 +6,17 @@ SnipSnok is a social network that connects content creators (i.e. artists, music
 
 The effort and amount of all contributions to this repository were roughly equal by all contributors, who are listed below, ordered alphabetically by last name. 
 
-Edwin Chau -- echa7484 -- 470202481
+Edwin Chau 
 
-Daniel O’Dea -- dode0378 -- 470445321
+Daniel O’Dea
 
-Chris Pidd -- cpid5133 -- 470539941
+Chris Pidd
 
-Sophia Polito -- spol5736 -- 460353465
+Sophia Polito 
 
-Niravit Theng -- nthe0838 -- 470378292
+Niravit Theng 
 
-Kevin Su -- kesu6572 -- 470358102
+Kevin Su
 
 ## How to run
 
